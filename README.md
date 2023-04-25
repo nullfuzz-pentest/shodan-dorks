@@ -233,6 +233,7 @@ shodan-query: http.favicon.hash:-1970367401
 shodan-query: http.favicon.hash:-244067125
 shodan-query: http.favicon.hash:-266008933
 shodan-query: http.favicon.hash:-347188002
+shodan-query: http.favicon.hash:-356182173
 shodan-query: http.favicon.hash:-399298961
 shodan-query: http.favicon.hash:-440644339
 shodan-query: http.favicon.hash:-449283196
