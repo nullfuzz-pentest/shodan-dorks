@@ -1334,4 +1334,5 @@ shodan-query: title:logger html:"htmlWebpackPlugin.options.title"
 shodan-query: title="ConnectWise Control Remote Support Software"
 shodan-query: vuln:CVE-2021-26855
 shodan-query: product:"VNC" "authentication disabled"
+shodan-query: http.title:novnc
 </code></pre>
