@@ -1316,3 +1316,4 @@ title:kubecost
 title:logger html:"htmlWebpackPlugin.options.title"
 title="ConnectWise Control Remote Support Software"
 vuln:CVE-2021-26855
+product:"VNC" "authentication disabled"
