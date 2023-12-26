@@ -1,0 +1,16 @@
+name: Greetings
+
+on: [pull_request_target, issues]
+
+jobs:
+  greeting:
+    runs-on: ubuntu-latest
+    permissions:
+      issues: write
+      pull-requests: write
+    steps:
+    - uses: actions/first-interaction@v1
+      with:
+        repo-token: ${{ secrets.GITHUB_TOKEN }}
+        issue-message: "Tu aporte es esencial para mejorar la calidad de nuestro servicio. Agradecemos tu paciencia y colaboración en la resolución de este problema. Si tienes alguna pregunta o necesitas más información, ¡no dudes en ponerte en contacto con nosotros!"
+        pr-message: "Solo queríamos soltarte un enorme GRACIAS por tus increíbles contribuciones. Tu chispa creativa y esfuerzo incansable han hecho que nuestro proyecto brille aún más. ¡Eres genial! 🚀💻Gracias por ser tan asombros@ y formar parte de este proyecto. 🤗🎉"
