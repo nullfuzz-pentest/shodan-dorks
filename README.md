@@ -8,9 +8,9 @@ Description:
 
 This GitHub repository provides a range of search queries, known as "dorks," for Shodan, a powerful tool used to search for Internet-connected devices. The dorks are designed to help security researchers discover potential vulnerabilities and configuration issues in various types of devices such as webcams, routers, and servers. This resource is helpful for those interested in exploring network security and conducting vulnerability scanning, including both beginners and experienced information security professionals. By leveraging this repository, users can improve the security of their own networks and protect against potential attacks.
 
-<h2 align="center">
+<h1 align="center">
 ![Alt](https://repobeats.axiom.co/api/embed/9726a5eb6dbbe783316fc0024f16ad0610ca2151.svg "Repobeats analytics image")
-</h2>
+</h1>
 
 <h3>
 Shodan Dorks:
