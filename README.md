@@ -12,6 +12,7 @@ This GitHub repository provides a range of search queries, known as "dorks," for
 <h3>
 Shodan Dorks:
 </h3>
+
 ```console
 aa3939fc357723135870d5036b12a67097b03309
 app="HIKVISION-综合安防管理平台"
